@@ -1,4 +1,3 @@
-https://menu-animado-interface.netlify.app/
 # Menu Animado
 
 você pode acessar o projeto [clicando aqui](https://menu-animado-interface.netlify.app/)
